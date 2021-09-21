@@ -15,7 +15,8 @@ git clone
 Projeyi klonladıktan sonra vs açalım
 
 ```
-KODLUYORUZ REPO DEĞİŞTİRDİ
+1)KODLUYORUZ REPO DEĞİŞTİRDİ
+2)KODLUYORUZ1 REPO DEĞİŞTİRDİ
 ```
 
 ## **Contributing**
