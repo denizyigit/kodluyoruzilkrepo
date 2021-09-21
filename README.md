@@ -1,6 +1,6 @@
 # **kodluyoruzilkrepo**
 
-Bu repo [kodluyoruz](https://www.patika.dev/) Front end 
+Bu repo [kodluyoruz](https://www.patika.dev/) Front end
 
 ## **Installation**
 
