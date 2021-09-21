@@ -15,7 +15,7 @@ git clone
 Projeyi klonladıktan sonra vs açalım
 
 ```
-cd kodluyouruz
+KODLUYORUZ REPO DEĞİŞTİRDİ
 ```
 
 ## **Contributing**
